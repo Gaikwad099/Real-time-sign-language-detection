@@ -58,5 +58,4 @@ This project implements **American, Indian, and German Sign Language Detection**
 ### Steps to Run the Project:
 1. Clone this repository:
    ```bash
-   git clone https://github.com/nihalsathawane2003/Sign_language_Media-pipe
-
+   git clone https://github.com/Gaikwad099/Real-time-sign-language-detection
